@@ -2,8 +2,7 @@
 
 ## E-commerce Web Application
 
-!http://googleusercontent.com/image_generation_content/2
-*A simplified user flow diagram for QuickCart*
+Deployed Link: (#https://mern-stack-exercise-qdcp.vercel.app/)
 
 ## Table of Contents
 
